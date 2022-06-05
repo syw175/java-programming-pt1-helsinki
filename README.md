@@ -1,5 +1,5 @@
 # Java Programming I - Helsinki
-This is a compilation of work completed for java programming pt1 offered by helsinki
+This is a compilation of work completed for Java Programming Part 1 offered by helsinki
 
 # Core Concepts
 |                                        Section                                       |                                        Description                                        |
@@ -16,6 +16,7 @@ This is a compilation of work completed for java programming pt1 offered by hels
 
 
 # Exercises
+> **_NOTE:_**  All questions completed as part of the course practice problems and exercises.
 | No  | Exercise                        | Solution                                                                                                                        |
 |-----|---------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
 | 1   | Sandbox                         | [Solution](https://github.com/syw175/java-programming-pt1-helsinki/tree/main/part%201/Part1_01.Sandbox)                         |
@@ -55,7 +56,7 @@ This is a compilation of work completed for java programming pt1 offered by hels
 | 35  | CheckingTheAge                  | [Solution](https://github.com/syw175/java-programming-pt1-helsinki/tree/main/part%201/Part1_35.CheckingTheAge)                  |
 | 36  | LeapYear                        | [Solution](https://github.com/syw175/java-programming-pt1-helsinki/tree/main/part%201/Part1_36.LeapYear)                        |
 | 37  | GiftTax                         | [Solution](https://github.com/syw175/java-programming-pt1-helsinki/tree/main/part%201/Part1_37.GiftTax)                         |
-| 38  | Squared                         | [Solution](https://github.com/syw175/java-programming-pt1-helsinki/tree/main/part%202/Part2_01.Squared))                        |
+| 38  | Squared                         | [Solution](https://github.com/syw175/java-programming-pt1-helsinki/tree/main/part%202/Part2_01.Squared)                        |
 | 39  | SquareRootOfSum                 | [Solution](https://github.com/syw175/java-programming-pt1-helsinki/tree/main/part%202/Part2_02.SquareRootOfSum)                 |
 | 40  | AbsoluteValue                   | [Solution](https://github.com/syw175/java-programming-pt1-helsinki/tree/main/part%202/Part2_03.AbsoluteValue)                   |
 | 41  | ComparingNumbers                | [Solution](https://github.com/syw175/java-programming-pt1-helsinki/tree/main/part%202/Part2_04.ComparingNumbers)                |
