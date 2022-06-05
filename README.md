@@ -17,6 +17,7 @@ This is a compilation of work completed for Java Programming Part 1 offered by h
 
 # Exercises
 > **_NOTE:_**  All questions completed as part of the course practice problems and exercises.
+
 | No  | Exercise                        | Solution                                                                                                                        |
 |-----|---------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
 | 1   | Sandbox                         | [Solution](https://github.com/syw175/java-programming-pt1-helsinki/tree/main/part%201/Part1_01.Sandbox)                         |
